@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Stephan/CLionProjects/ComputationalGeometry/Interception/main.cpp
+iostream
+-
+vector
+-
+string
+-
+tests.h
+/Users/Stephan/CLionProjects/ComputationalGeometry/Interception/tests.h
+
+/Users/Stephan/CLionProjects/ComputationalGeometry/Interception/tests.h
+vector
+-
+cassert
+-
+

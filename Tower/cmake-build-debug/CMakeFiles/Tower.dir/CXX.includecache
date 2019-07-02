@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Stephan/CLionProjects/ComputationalGeometry/Tower/main.cpp
+iostream
+-
+vector
+-
+cmath
+-
+random
+-
+algorithm
+-
+cstdlib
+-
+

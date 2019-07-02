@@ -1,0 +1,3 @@
+/Users/svetlanaartemeva/CLionProjects/ComputationalGeometry/Triangulation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/svetlanaartemeva/CLionProjects/ComputationalGeometry/Triangulation/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/svetlanaartemeva/CLionProjects/ComputationalGeometry/Triangulation/cmake-build-debug/CMakeFiles/Triangulation.dir

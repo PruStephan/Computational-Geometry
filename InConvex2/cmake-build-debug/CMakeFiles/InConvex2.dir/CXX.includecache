@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Stephan/CLionProjects/ComputationalGeometry/InConvex2/main.cpp
+iostream
+-
+vector
+-
+cmath
+-
+algorithm
+-
+

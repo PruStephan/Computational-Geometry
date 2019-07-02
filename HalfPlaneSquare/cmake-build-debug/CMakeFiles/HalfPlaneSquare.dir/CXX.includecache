@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Stephan/CLionProjects/ComputationalGeometry/HalfPlaneSquare/main.cpp
+iostream
+-
+vector
+-
+cmath
+-
+set
+-
+map
+-
+algorithm
+-
+

@@ -1,0 +1,3 @@
+/Users/Stephan/CLionProjects/ComputationalGeometry/RotatingCalipers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Stephan/CLionProjects/ComputationalGeometry/RotatingCalipers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Stephan/CLionProjects/ComputationalGeometry/RotatingCalipers/cmake-build-debug/CMakeFiles/RotatingCalipers.dir
